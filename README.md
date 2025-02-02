@@ -95,7 +95,7 @@ Altermagnetic materials create **whirlpools** of spin, modeled by a **Skyrmion n
 
 
 where:
-- n is the local spin orientation.
+- **n** is the local spin orientation.
 - ![image](https://github.com/user-attachments/assets/259fa7f0-50d2-40b9-9a14-adf478d9a7dc)
  is a **topological invariant**, meaning these structures are **robust against perturbations**.
 
