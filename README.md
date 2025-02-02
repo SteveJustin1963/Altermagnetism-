@@ -12,9 +12,7 @@ Electrons possess a **spin angular momentum** **S** , which contributes to their
 
 ![image](https://github.com/user-attachments/assets/b46b798f-d503-49b6-9cb9-be2ed306840e)
 
-\[
-\boldsymbol{\mu} = -g \mu_B \mathbf{S}
-\]
+ 
 
 where:
 - `g` is the **g-factor** (≈ 2 for free electrons),
