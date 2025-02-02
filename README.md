@@ -18,7 +18,7 @@ where:
 - `g` is the **g-factor** (≈ 2 for free electrons),
 - ![image](https://github.com/user-attachments/assets/75ae8f2b-7361-4e90-b78e-be25a51004f7)
 \( \mu_B \) is the **Bohr magneton** ![image](https://github.com/user-attachments/assets/c4905db5-376e-42c0-984f-19b8be0d996c)
-\( \frac{e \hbar}{2m_e} \),
+ 
 - ![image](https://github.com/user-attachments/assets/4d9f414d-be46-41f9-9680-6c1bee604998)
 \( \mathbf{S} \) is the electron spin operator.
 
