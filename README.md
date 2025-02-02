@@ -9,6 +9,7 @@ The mathematics behind **Altermagnetism** involves quantum mechanics, solid-stat
 ### **1. Quantum Spin and Magnetic Moment**
 Electrons possess a **spin angular momentum** **S** , which contributes to their **magnetic moment** ![image](https://github.com/user-attachments/assets/a5219999-3085-49ba-875d-a6cf97777209)
 ):
+
 ![image](https://github.com/user-attachments/assets/b46b798f-d503-49b6-9cb9-be2ed306840e)
 
 \[
