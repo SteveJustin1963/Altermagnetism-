@@ -32,57 +32,55 @@ For **altermagnetism**, spins cancel but in a rotated pattern, meaning the overa
 ### **2. Heisenberg Exchange Interaction**
 Magnetism is driven by **exchange interactions**, given by the Heisenberg Hamiltonian:
 
-\[
-H = - J \sum_{\langle i,j \rangle} \mathbf{S}_i \cdot \mathbf{S}_j
-\]
+![image](https://github.com/user-attachments/assets/d9990634-b9a5-4092-a3b9-7118067d0052)
+
 
 where:
-- \( J \) is the **exchange coupling constant**,
-- \( \langle i,j \rangle \) represents summation over nearest-neighbor spins.
+- J is the **exchange coupling constant**,
+- <i,j> represents summation over nearest-neighbor spins.
 
 For:
-- **Ferromagnets**: \( J > 0 \) (spins align).
-- **Antiferromagnets**: \( J < 0 \) (spins alternate).
-- **Altermagnets**: A spatially varying \( J(\mathbf{r}) \), leading to an internal chiral spin structure.
+- **Ferromagnets**: J > 0 (spins align).
+- **Antiferromagnets**: J < 0 (spins alternate).
+- **Altermagnets**: A spatially varying J(r), leading to an internal chiral spin structure.
 
 ---
 
 ### **3. Spin Wave Dispersion (Magnons)**
 In a classical ferromagnet, the **spin wave dispersion relation** is:
 
-\[
-\omega(\mathbf{k}) = 2 J S (1 - \cos(\mathbf{k} \cdot \mathbf{a}))
-\]
+![image](https://github.com/user-attachments/assets/0190d36f-b5cb-4d4a-b907-1311718df202)
+
 
 For **antiferromagnets**, the dispersion becomes:
 
-\[
-\omega(\mathbf{k}) = \sqrt{\Delta^2 + 4 J^2 S^2 \sin^2(\mathbf{k} \cdot \mathbf{a})}
-\]
+![image](https://github.com/user-attachments/assets/6d178bda-00ee-4c29-8575-62b4cf4d2745)
 
-where \( \Delta \) is an energy gap.
+
+where ![image](https://github.com/user-attachments/assets/acaea50a-32d1-46b1-a600-880f5d892c0f)
+ is an energy gap.
 
 In **altermagnets**, due to rotational symmetry breaking, the magnon dispersion **is anisotropic**, meaning that spin waves propagate differently depending on direction:
 
-\[
-\omega(\mathbf{k}) = 2 J S f(\mathbf{k})
-\]
+![image](https://github.com/user-attachments/assets/3a509f7d-5025-45bd-bc8e-2cc31739ae77)
 
-where \( f(\mathbf{k}) \) depends on the lattice symmetry.
+
+where f(k) depends on the lattice symmetry.
 
 ---
 
 ### **4. Berry Curvature and Spin Current**
 Altermagnetic materials exhibit **Berry curvature** effects, impacting spin transport:
 
-\[
-\Omega_n(\mathbf{k}) = i \sum_{m \neq n} \frac{\langle u_n | \nabla_{\mathbf{k}} H | u_m \rangle \times \langle u_m | \nabla_{\mathbf{k}} H | u_n \rangle}{(E_m - E_n)^2}
-\]
+![image](https://github.com/user-attachments/assets/8223c13e-2223-42fb-9825-900a780f6f14)
+
 
 where:
-- \( \Omega_n(\mathbf{k}) \) is the Berry curvature,
-- \( u_n \) are Bloch states,
-- \( H \) is the Hamiltonian.
+- ![image](https://github.com/user-attachments/assets/af32bbc1-5cda-4e34-820c-5049ef2b8b7a)
+ is the Berry curvature,
+- ![image](https://github.com/user-attachments/assets/f2af9a31-34c2-4507-9052-1c070e6b1505)
+ are Bloch states,
+- H is the Hamiltonian.
 
 This results in an **anomalous Hall effect for spin** without charge transport, leading to potential applications in **spintronics**.
 
@@ -91,13 +89,13 @@ This results in an **anomalous Hall effect for spin** without charge transport, 
 ### **5. Magnetic Whirlpools (Topological Spin Textures)**
 Altermagnetic materials create **whirlpools** of spin, modeled by a **Skyrmion number**:
 
-\[
-N_s = \frac{1}{4\pi} \int d^2r \; \mathbf{n} \cdot \left( \frac{\partial \mathbf{n}}{\partial x} \times \frac{\partial \mathbf{n}}{\partial y} \right)
-\]
+![image](https://github.com/user-attachments/assets/e6da89d7-ef9b-44fc-b4a0-4a2cb7473dce)
+
 
 where:
-- \( \mathbf{n} \) is the local spin orientation.
-- \( N_s \) is a **topological invariant**, meaning these structures are **robust against perturbations**.
+- n is the local spin orientation.
+- ![image](https://github.com/user-attachments/assets/259fa7f0-50d2-40b9-9a14-adf478d9a7dc)
+ is a **topological invariant**, meaning these structures are **robust against perturbations**.
 
 This allows **storing information in nanoscale spin textures**, useful for **next-gen memory devices**.
 
