@@ -1,36 +1,29 @@
 # Altermagnetism-
  
-
-
 The mathematics behind **Altermagnetism** involves quantum mechanics, solid-state physics, and spin wave theory. Here’s a breakdown of the key equations and principles:
 
 ---
 
 ### **1. Quantum Spin and Magnetic Moment**
-Electrons possess a **spin angular momentum** **S** , which contributes to their **magnetic moment** ![image](https://github.com/user-attachments/assets/a5219999-3085-49ba-875d-a6cf97777209)
-):
+Electrons possess a **spin angular momentum** **S**, which contributes to their **magnetic moment** ![image](https://github.com/user-attachments/assets/2eace863-7552-4335-9d6c-baf324d6308a)
+:
 
-![image](https://github.com/user-attachments/assets/b46b798f-d503-49b6-9cb9-be2ed306840e)
-
- 
+![image](https://github.com/user-attachments/assets/a275f723-d807-4052-b719-c5f01d113579)
 
 where:
-- `g` is the **g-factor** (≈ 2 for free electrons),
-- ![image](https://github.com/user-attachments/assets/75ae8f2b-7361-4e90-b78e-be25a51004f7)
-\( \mu_B \) is the **Bohr magneton** ![image](https://github.com/user-attachments/assets/c4905db5-376e-42c0-984f-19b8be0d996c)
- 
-- ![image](https://github.com/user-attachments/assets/4d9f414d-be46-41f9-9680-6c1bee604998)
-\( \mathbf{S} \) is the electron spin operator.
+- g is the **g-factor** (≈ 2 for free electrons),
+- ![image](https://github.com/user-attachments/assets/a65005f3-acba-4c5b-a2d3-9db8920d5549)
+ is the **Bohr magneton** ![image](https://github.com/user-attachments/assets/e6f51e62-b494-452d-9462-dff5253ba553)
+,
+- **S** is the electron spin operator.
 
 For **ferromagnetism**, all spins align:  
-\[
-\sum_i \mathbf{S}_i = N \mathbf{S}
-\]
+![image](https://github.com/user-attachments/assets/45fed3aa-69fe-44f0-b8e9-2f53b3966082)
+
 
 For **antiferromagnetism**, spins cancel out:
-\[
-\sum_i (-1)^i \mathbf{S}_i = 0
-\]
+![image](https://github.com/user-attachments/assets/200a670d-36f2-48f7-a785-5894b1475151)
+
 
 For **altermagnetism**, spins cancel but in a rotated pattern, meaning the overall magnetization **vanishes**, yet internal spin currents remain.
 
