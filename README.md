@@ -18,10 +18,12 @@ where:
 - **S** is the electron spin operator.
 
 For **ferromagnetism**, all spins align:  
+
 ![image](https://github.com/user-attachments/assets/45fed3aa-69fe-44f0-b8e9-2f53b3966082)
 
 
 For **antiferromagnetism**, spins cancel out:
+
 ![image](https://github.com/user-attachments/assets/200a670d-36f2-48f7-a785-5894b1475151)
 
 
