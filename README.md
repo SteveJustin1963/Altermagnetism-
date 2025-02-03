@@ -111,3 +111,8 @@ The math of **Altermagnetism** merges:
 4. **Topological physics**, allowing magnetic whirlpools.
 
 This new form of magnetism combines **features of ferromagnets and antiferromagnets** but introduces a **directional spin texture** that could revolutionize **electronics and quantum computing**. 🚀
+
+
+# 1D Heisenberg Hamiltonian for N spin-1/2 particles
+
+
