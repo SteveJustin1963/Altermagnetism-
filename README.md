@@ -29,7 +29,8 @@ For **antiferromagnetism**, spins cancel out:
 
 For **altermagnetism**, spins cancel but in a rotated pattern, meaning the overall magnetization **vanishes**, yet internal spin currents remain.
 
-# code for https://github.com/SteveJustin1963/Altermagnetism-/blob/main/QSMM1.m
+# code 
+https://github.com/SteveJustin1963/Altermagnetism-/blob/main/QSMM1.m
 
 Here is the **MATLAB code** to compute **Quantum Spin and Magnetic Moment** for a system of **N spin-1/2 electrons**:
 
@@ -262,6 +263,10 @@ In **altermagnets**, due to rotational symmetry breaking, the magnon dispersion 
 where f(k) depends on the lattice symmetry.
 
 ---
+
+#### code
+
+
 
 ### **4. Berry Curvature and Spin Current**
 Altermagnetic materials exhibit **Berry curvature** effects, impacting spin transport:
