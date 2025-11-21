@@ -1,18 +1,18 @@
 # Altermagnetism-
 
-Quantum Spin and Magnetic Moment Formula The core formula relating the electron's spin magnetic moment $$(\(\vec{\mu }\))$$ to its spin angular momentum $$(\(\vec{S}\)) is: \(\vec{\mu }=-g\mu _{B}\vec{S}\)$$ 
+Quantum Spin and Magnetic Moment Formula The core formula relating the electron's spin magnetic moment $(\(\vec{\mu }\))$ to its spin angular momentum $(\(\vec{S}\)) is: \(\vec{\mu }=-g\mu _{B}\vec{S}\)$ 
 
 Accuracy: This is a correct vector relationship used in quantum mechanics. The negative sign correctly indicates that the magnetic moment vector is antiparallel to the spin angular momentum vector due to the electron's negative charge.
 
 Definitions:
 
- $$\(g\)$$ is the g-factor: The value of 2 is correct for a theoretical "free" Dirac electron. The experimentally measured value is slightly higher (approximately 2.00232) due to quantum electrodynamics effects.
+$\(g\)$ is the g-factor: The value of 2 is correct for a theoretical "free" Dirac electron. The experimentally measured value is slightly higher (approximately 2.00232) due to quantum electrodynamics effects.
 
- $\(\mu _{B}\)$ is the Bohr magneton: The formula given $$(\(\mu _{B}=\frac{e\hbar }{2m_{e}}\))$$ is the correct definition of the Bohr magneton, a fundamental constant.$$\(S\)$$ is the electron spin operator: This is correct terminology in quantum mechanics. Types of Magnetism The descriptions of different types of magnetism are accurate conceptual summaries: 
+$\(\mu _{B}\)$ is the Bohr magneton: The formula given $(\(\mu _{B}=\frac{e\hbar }{2m_{e}}\))$ is the correct definition of the Bohr magneton, a fundamental constant. $\(S\)$ is the electron spin operator: This is correct terminology in quantum mechanics. Types of Magnetism The descriptions of different types of magnetism are accurate conceptual summaries: 
 
-Ferromagnetism: The image states "all spins align" and provides the equation $$\(\sum _{i}S_{i}=NS\)$$. This correctly describes the state where all magnetic moments in a domain are parallel, resulting in a net magnetic moment.
+Ferromagnetism: The image states "all spins align" and provides the equation $\(\sum _{i}S_{i}=NS\)$. This correctly describes the state where all magnetic moments in a domain are parallel, resulting in a net magnetic moment.
 
-Antiferromagnetism: The image states "spins cancel out" and provides the equation $$\(\sum _{i}(-1)^{i}S_{i}=0\)$$. This correctly describes the state where adjacent spins are aligned antiparallel to each other (alternating up and down), leading to a net zero magnetization.Altermagnetism: The definition provided—"spins cancel but in a rotated pattern, meaning the overall magnetization vanishes, yet internal spin currents remain"—is a modern and accurate description of this distinct, recently studied phase of matter. 
+Antiferromagnetism: The image states "spins cancel out" and provides the equation $\(\sum _{i}(-1)^{i}S_{i}=0\)$. This correctly describes the state where adjacent spins are aligned antiparallel to each other (alternating up and down), leading to a net zero magnetization.Altermagnetism: The definition provided—"spins cancel but in a rotated pattern, meaning the overall magnetization vanishes, yet internal spin currents remain"—is a modern and accurate description of this distinct, recently studied phase of matter. 
 
 
 ///
