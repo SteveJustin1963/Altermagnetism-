@@ -182,19 +182,23 @@ Altermagnets have **zero net magnetization**, but **rotated spin patterns** and
 
 ---
 
-# 🔷 **1. Spin and Magnetic Moment (Code Section)**
+### Spin and Magnetic Moment (Code Section)
 
 Your MATLAB code uses:
 
-* Total spin operators $S_x, S_y, S_z$
-* Total spin squared
-  $$
-  S^2 = S_x^2 + S_y^2 + S_z^2
-  $$
-* Magnetic moment operator
-  $$
-  \mu_z = -g\mu_B S_z
-  $$
+- Total spin operators $S_x$, $S_y$, $S_z$
+
+Total spin squared:
+
+$$
+S^2 = S_x^2 + S_y^2 + S_z^2
+$$
+
+Magnetic moment operator:
+
+$$
+\mu_z = -g \mu_B S_z
+$$
 
 Eigenvalues classify ferro/antiferro/altermagnetic states.
 
