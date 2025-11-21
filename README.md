@@ -255,8 +255,6 @@ $$
 i!\left[
 \left\langle \frac{\partial u_n}{\partial k_x} \Bigg|
 \frac{\partial u_n}{\partial k_y} \right\rangle
------------------------------------------------
-
 \left\langle \frac{\partial u_n}{\partial k_y} \Bigg|
 \frac{\partial u_n}{\partial k_x} \right\rangle
 \right].
