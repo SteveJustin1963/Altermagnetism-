@@ -1,6 +1,6 @@
 # Altermagnetism-
 
-Quantum Spin and Magnetic Moment Formula The core formula relating the electron's spin magnetic moment $$ (\(\vec{\mu }\))$$ to its spin angular momentum $$ (\(\vec{S}\)) is: \(\vec{\mu }=-g\mu _{B}\vec{S}\)$$ 
+Quantum Spin and Magnetic Moment Formula The core formula relating the electron's spin magnetic moment $$(\(\vec{\mu }\))$$ to its spin angular momentum $$(\(\vec{S}\)) is: \(\vec{\mu }=-g\mu _{B}\vec{S}\)$$ 
 
 Accuracy: This is a correct vector relationship used in quantum mechanics. The negative sign correctly indicates that the magnetic moment vector is antiparallel to the spin angular momentum vector due to the electron's negative charge.
 
