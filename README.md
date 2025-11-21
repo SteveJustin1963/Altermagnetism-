@@ -182,7 +182,7 @@ Altermagnets have **zero net magnetization**, but **rotated spin patterns** and
 
 ---
 
-# 🔷 **Spin and Magnetic Moment (Code Section)**
+# 🔷 **1.Spin and Magnetic Moment (Code Section)**
 
 Your MATLAB code uses:
 
