@@ -67,15 +67,15 @@ $$
 
 * Individual components:
 
-  $$
-  S_x,\quad S_y,\quad S_z
-  $$
+$$
+S_x,\quad S_y,\quad S_z
+$$
 
 * The magnitude:
 
-  $$
-  S = \hbar\sqrt{s(s+1)}
-  $$
+$$
+S = \hbar\sqrt{s(s+1)}
+$$
 
 For an electron ($s=1/2$):
 
@@ -188,15 +188,15 @@ Your MATLAB code uses:
 
 * Total spin:
 
-  $$
-  S^2 = S_x^2 + S_y^2 + S_z^2
-  $$
+$$
+S^2 = S_x^2 + S_y^2 + S_z^2
+$$
 
 * Magnetic moment:
 
-  $$
-  \mu_z = - g \mu_B S_z
-  $$
+$$
+\mu_z = - g \mu_B S_z
+$$
 
 These eigenvalues classify ferro/antiferro/altermagnetic phases.
 
