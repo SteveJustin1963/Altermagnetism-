@@ -12,7 +12,9 @@ $$\(\mu _{B}\)$$ is the Bohr magneton: The formula given $$(\(\mu _{B}=\frac{e\h
 
 Ferromagnetism: The image states "all spins align" and provides the equation $$\(\sum _{i}S_{i}=NS\)$$. This correctly describes the state where all magnetic moments in a domain are parallel, resulting in a net magnetic moment.
 
-Antiferromagnetism: The image states "spins cancel out" and provides the equation \(\sum _{i}(-1)^{i}S_{i}=0\). This correctly describes the state where adjacent spins are aligned antiparallel to each other (alternating up and down), leading to a net zero magnetization.Altermagnetism: The definition provided—"spins cancel but in a rotated pattern, meaning the overall magnetization vanishes, yet internal spin currents remain"—is a modern and accurate description of this distinct, recently studied phase of matter. 
+Antiferromagnetism: The image states "spins cancel out" and provides the equation $$\(\sum _{i}(-1)^{i}S_{i}=0\)$$. This correctly describes the state where adjacent spins are aligned antiparallel to each other (alternating up and down), leading to a net zero magnetization.Altermagnetism: The definition provided—"spins cancel but in a rotated pattern, meaning the overall magnetization vanishes, yet internal spin currents remain"—is a modern and accurate description of this distinct, recently studied phase of matter. 
+
+
 ///
 
  
