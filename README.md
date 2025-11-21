@@ -6,9 +6,9 @@ Accuracy: This is a correct vector relationship used in quantum mechanics. The n
 
 Definitions:
 
-$$\(g\)$$ is the g-factor: The value of 2 is correct for a theoretical "free" Dirac electron. The experimentally measured value is slightly higher (approximately 2.00232) due to quantum electrodynamics effects.
+ $$\(g\)$$ is the g-factor: The value of 2 is correct for a theoretical "free" Dirac electron. The experimentally measured value is slightly higher (approximately 2.00232) due to quantum electrodynamics effects.
 
-$$ \(\mu _{B}\)$$ is the Bohr magneton: The formula given $$(\(\mu _{B}=\frac{e\hbar }{2m_{e}}\))$$ is the correct definition of the Bohr magneton, a fundamental constant.$$\(S\)$$ is the electron spin operator: This is correct terminology in quantum mechanics. Types of Magnetism The descriptions of different types of magnetism are accurate conceptual summaries: 
+ $$\(\mu _{B}\)$$ is the Bohr magneton: The formula given $$(\(\mu _{B}=\frac{e\hbar }{2m_{e}}\))$$ is the correct definition of the Bohr magneton, a fundamental constant.$$\(S\)$$ is the electron spin operator: This is correct terminology in quantum mechanics. Types of Magnetism The descriptions of different types of magnetism are accurate conceptual summaries: 
 
 Ferromagnetism: The image states "all spins align" and provides the equation $$\(\sum _{i}S_{i}=NS\)$$. This correctly describes the state where all magnetic moments in a domain are parallel, resulting in a net magnetic moment.
 
