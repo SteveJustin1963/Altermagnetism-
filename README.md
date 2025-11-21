@@ -62,20 +62,10 @@ where:
 
 The spin operator can be:
 
-* the vector operator
-  $$
-  \vec{S} = (S_x, S_y, S_z)
-  $$
+- the vector operator $ \vec{S} = (S_x, S_y, S_z) $
+- one of its components: $S_x,\, S_y,\, S_z$
+- or the magnitude: $S = \hbar\sqrt{s(s+1)}$
 
-* one of its components:
-  $$
-  S_x, ; S_y, ; S_z
-  $$
-
-* or the magnitude:
-  $$
-  S = \hbar\sqrt{s(s+1)}.
-  $$
 
 For an electron ($s = \tfrac12$):
 
