@@ -59,7 +59,7 @@ The spin operator may refer to:
 * The vector operator:
 
   $$
-  \vec{S} = (S_x, S_y, S_z)
+  \vec{S} = (S_x, S_y, S_z).
   $$
 
 * Individual components:
