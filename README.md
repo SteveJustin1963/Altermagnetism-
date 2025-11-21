@@ -1,14 +1,4 @@
-<p>
-\[
-\Omega_n(k) = i \left[ \langle \partial u_n/\partial k_x \mid \partial u_n/\partial k_y \rangle 
-- \langle \partial u_n/\partial k_y \mid \partial u_n/\partial k_x \rangle \right]
-\]
-</p>
-
-
-
-
- 
+  
 
 # **Altermagnetism — Complete Corrected & Structured Section (GitHub-Compatible)**
 
