@@ -1,13 +1,4 @@
-Got it — here is the **entire section**, fully rewritten so that **GitHub renders the LaTeX correctly**.
-
-**Rules followed:**
-
-* **Block equations:** `$$ ... $$`
-* **Inline math:** `$ ... $`
-* No backslashes or parentheses around `$`.
-* No mixing of `\(` `\)` and `$`.
-
-Everything below is **GitHub-safe Markdown with LaTeX**.
+ 
 
 ---
 
@@ -312,11 +303,4 @@ It has zero magnetization like an AFM, but directionally structured spins like a
 making it a prime candidate for **spintronics and quantum devices**.
 
 ---
-
-If you'd like, I can:
-
-✅ Export this as a **.md file**
-✅ Make a **LaTeX PDF**
-✅ Add diagrams or GitHub-compatible SVGs
-
-Just say the word.
+ 
