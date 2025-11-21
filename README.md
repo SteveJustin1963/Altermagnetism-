@@ -33,22 +33,22 @@ For **altermagnetism**, spins cancel but in a rotated pattern, meaning the overa
 https://github.com/SteveJustin1963/Altermagnetism-/blob/main/QSMM1.m
 
 ### **What This Code Does**
-✅ **Constructs total spin operators** \( S_x, S_y, S_z \).  
-✅ **Computes total spin squared** \( S^2 = S_x^2 + S_y^2 + S_z^2 \).  
-✅ **Computes magnetic moment operator** \( \boldsymbol{\mu} = -g \mu_B S_z \).  
-✅ **Finds eigenvalues of \( S^2 \) and \( \mu_{\text{tot},z} \)** to classify spin states.  
+✅ **Constructs total spin operators** $$\( S_x, S_y, S_z \)$$.  
+✅ **Computes total spin squared** $$\( S^2 = S_x^2 + S_y^2 + S_z^2 \)$$.  
+✅ **Computes magnetic moment operator** $$\( \boldsymbol{\mu} = -g \mu_B S_z \)$$.  
+✅ **Finds eigenvalues of $$\( S^2 \)$$ and $$\( \mu_{\text{tot},z} \)$$** to classify spin states.  
 ✅ **Plots the magnetic moment spectrum**.
 
 ---
 
 ### **Interpretation of Results**
-- **For Ferromagnetism**: The eigenvalues of \( S^2 \) should be large (spins aligned).
+- **For Ferromagnetism**: The eigenvalues of $$\( S^2 \)$$ should be large (spins aligned).
 - **For Antiferromagnetism**: Some eigenvalues should be near zero (spins cancel).
 - **For Altermagnetism**: Expect vanishing net magnetization but internal spin currents.
 
 ---
 ```
-Total Spin Operator S^2 Eigenvalues:
+Total Spin Operator $$S^2$$ Eigenvalues:
    -0.0000
    -0.0000
     2.0000
@@ -66,7 +66,7 @@ Total Spin Operator S^2 Eigenvalues:
     6.0000
     6.0000
 
-Total Magnetic Moment Operator (?_tot) Eigenvalues:
+Total Magnetic Moment Operator $$(?_tot)$$ Eigenvalues:
    1.0e-22 *
 
    -0.3710
@@ -230,14 +230,14 @@ https://github.com/SteveJustin1963/Altermagnetism-/blob/main/SWD1.m
 
 ### **What This Code Does**
 ✅ **Computes dispersion relations** for **Ferromagnetic, Antiferromagnetic, and Altermagnetic magnons**.  
-✅ **Uses a realistic anisotropic function** \( f(k) = |\sin(k)| + 0.2 \cos(2k) \) for Altermagnetism.  
+✅ **Uses a realistic anisotropic function** $$\( f(k) = |\sin(k)| + 0.2 \cos(2k) \)$$ for Altermagnetism.  
 ✅ **Plots all three dispersion curves** for comparison.  
 
 ---
 
 ### **Expected Results**
-- **Ferromagnetic Dispersion**: Starts at **zero** at \( k=0 \), with a quadratic rise.  
-- **Antiferromagnetic Dispersion**: Starts at **energy gap \( \Delta \) at \( k=0 \)**, increases with \( k \).  
+- **Ferromagnetic Dispersion**: Starts at **zero** at $$\( k=0 \)$$, with a quadratic rise.  
+- **Antiferromagnetic Dispersion**: Starts at **energy gap $$\( \Delta \)$$ at $$\( k=0 \)$$**, increases with  $$\( k \)$$.  
 - **Altermagnetic Dispersion**: Exhibits **anisotropic variations**, unlike the others.  
 
 ---
